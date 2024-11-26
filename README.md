@@ -1,4 +1,4 @@
-# Repositorio com codigos realizados na plataforma bugcrowd
+# Repositorio com codigos realizados na plataforma beecrowd
 
 Para todos codigo e apresentado um problema a ser solucionado com programacao.
 
